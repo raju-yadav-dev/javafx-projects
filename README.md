@@ -12,14 +12,14 @@ javafx-projects/
 ├── project1/  
 │ ├── project1.java  
 │ └── README.md  
-|  
-|
+│  
+│
 ├── project2/  
 │ ├── project2.java  
 │ └── README.md  
 │  
 ├── ...   
-|  
+│  
 └── README.md  
 
 ---
