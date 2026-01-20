@@ -3,7 +3,7 @@
 This repository contains a collection of **JavaFX projects** created for learning and practice.
 Each project is a standalone JavaFX application with its own source code and documentation.
 
----
+--- 
 
 ### 📁 Repository Structure
 
