@@ -5,7 +5,7 @@ Each project is a standalone JavaFX application with its own source code and doc
 
 --- 
 
-### 📁 Repository Structure
+### 📁 Repository Structure 
 
 javafx-projects/  
 │  
